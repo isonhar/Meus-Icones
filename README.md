@@ -1,4 +1,4 @@
-<h1 align="center">🔶Aqui você vai achar diversos tipos de criações minhas!🔶</h1>
+<h1 align="center">🔶Aqui você vai achar diversas criações minhas!🔶</h1>
 
 </br>
 <p align="center">〰️〰️〰️〰️〰️〰️〰️〰️〰️</p>
