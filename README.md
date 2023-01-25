@@ -19,3 +19,7 @@
 <p align="center">
   <img  src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/.Language%20icons.png">
 </p>
+
+<p align="center">
+  <img  src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/.Language%20desc.png">
+</p>
